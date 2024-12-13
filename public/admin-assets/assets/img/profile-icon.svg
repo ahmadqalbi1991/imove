@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="252px" height="252px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 252 252"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#AC772B;fill-rule:nonzero}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2278928140576">
+   <path class="fil0" d="M252 126c0,69.59 -56.41,126 -126,126 -69.59,0 -126,-56.41 -126,-126 0,-69.59 56.41,-126 126,-126 69.59,0 126,56.41 126,126z"/>
+   <path class="fil1" d="M26.16 202.85c9.06,-11.55 21.1,-19.03 36.54,-21.69 2.75,-0.47 5.56,-0.58 8.35,-0.75 0.63,-0.04 1.53,0.2 1.91,0.65 5.5,6.49 12.73,10.26 20.58,12.94 13.58,4.64 27.61,5.41 41.79,4.6 10.69,-0.62 21.12,-2.54 30.91,-7.1 5.4,-2.51 10.3,-5.71 14.22,-10.31 0.47,-0.54 1.58,-0.8 2.38,-0.77 17.9,0.62 32.47,7.91 43.74,21.48 -23,30.43 -59.49,50.1 -100.58,50.1l0 0c-40.65,0 -76.8,-19.26 -99.84,-49.15z"/>
+   <path class="fil1" d="M68.11 110.43c0.42,-17.38 7.12,-35.04 22.57,-48.6 23.14,-20.3 55.86,-18.14 76.87,4.74 25.04,27.26 23.17,72.77 -4,97.52 -23.29,21.21 -58.05,19.06 -78.58,-4.88 -11.06,-12.88 -16.86,-28.69 -16.86,-48.78z"/>
+  </g>
+ </g>
+</svg>
